@@ -1,1 +1,1 @@
-# mini-project
+# loc-search-app
